@@ -13,6 +13,5 @@ let package = Package(
         targets: [
             .target(name: "Either", dependencies: ["Prelude"], path: "Either"),
             .testTarget(name: "EitherTests", dependencies: ["Either"], path: "EitherTests")
-        ],
-        swiftLanguageVersions: [3]
+        ]
 )
