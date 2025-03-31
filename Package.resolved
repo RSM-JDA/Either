@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Prelude",
-        "repositoryURL": "https://github.com/robrix/Prelude.git",
+        "repositoryURL": "https://github.com/RSM-JDA/Prelude.git",
         "state": {
           "branch": null,
-          "revision": "a048b7af84fc25a1fd0af62e1dfe34c685cd446f",
-          "version": "3.0.1"
+          "revision": "290995e5addbc0a9b62e9df9297538f7b238f9f2",
+          "version": "3.0.2"
         }
       }
     ]
